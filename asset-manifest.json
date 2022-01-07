@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dawid2803/react-routing-updated-copy/settings/pages/static/css/main.d75a97dd.css",
+    "main.js": "/Dawid2803/react-routing-updated-copy/settings/pages/static/js/main.27b2a02d.js",
+    "index.html": "/Dawid2803/react-routing-updated-copy/settings/pages/index.html",
+    "main.d75a97dd.css.map": "/Dawid2803/react-routing-updated-copy/settings/pages/static/css/main.d75a97dd.css.map",
+    "main.27b2a02d.js.map": "/Dawid2803/react-routing-updated-copy/settings/pages/static/js/main.27b2a02d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d75a97dd.css",
+    "static/js/main.27b2a02d.js"
+  ]
+}
